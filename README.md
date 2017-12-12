@@ -1,9 +1,11 @@
 # bulleted-icons-with-font-awesome
-Update Text
+Lists can also help a website visitor compartmentalize the benefits of your website. The more visual you can make your copy, the better. Using lists adds visual interest to otherwise static body copy.
+
+Another way to further engage readers with your content includes using logos, emblems, or simple shapes to break up the traditional monotony of lists. These icons can also help further your organization’s branding and enhance your website’s design. 
 
 ## Tutorial
 
-For detailed instruction's, view Solodev's [Creating Bulleted Icons with Font Awesome](https://www.solodev.com/blog/web-design/adding-a-customer-quote-slider-using-jquery.stml) article.
+For detailed instruction's, view Solodev's [How to Customize Bullet Points in a List](https://www.solodev.com/blog/web-design/tutorial-tuesdays-how-to-customize-bullet-points-in-a-list.stml) article.
 
 ## Demo
 
