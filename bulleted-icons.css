@@ -1,0 +1,44 @@
+.text-purple {
+    color: #8268fc;
+}
+.feature-tile ul {
+    margin: 1.25rem 0;
+}
+.feature-tile ul li {
+    padding-bottom: 1.5rem;
+}
+.feature-tile ul li {
+    list-style-type: none;
+}
+.feature-tile ul li i {
+    border-radius: 100%;
+    border: 1px solid #8268fc;
+    color: #202a35;
+    padding: 10px;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+}
+.feature-tile ul li .text {
+    padding: 0 1.75rem;
+}
+.feature-tile ul li .align, .feature-tile ul li .text {
+    display: table-cell;
+    vertical-align: middle;
+}
+.btn {
+    padding: .5rem 2rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 2rem;
+}
+.purple {
+    background-color: #8268fc;
+    border-color: #8268fc;
+    color: #fff;
+}
+.btn.purple:hover {
+    background-color: #5936fb;
+    border-color: #5936fb;
+    color: #fff;
+}
